@@ -343,6 +343,10 @@
     {
       "packageName": "my-controls",
       "projectFolder": "libraries/my-controls"
+    },
+    {
+      "packageName": "my-app",
+      "projectFolder": "apps/my-app"
     }
     // {
     //   /**
