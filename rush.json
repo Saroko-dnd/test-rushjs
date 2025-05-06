@@ -163,7 +163,8 @@
      */
      "allowedEmailRegExps": [
        "[^@]+@gmail\\.com",
-       "rush-bot@example\\.org"
+       "rush-bot@example\\.org",
+       "test@example\\.org"
     ],
 
     /**
