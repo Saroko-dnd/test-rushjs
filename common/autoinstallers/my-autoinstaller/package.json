@@ -1,0 +1,9 @@
+{
+  "name": "my-autoinstaller",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.21",
+    "tsdef": "0.0.14"
+  }
+}
