@@ -11,6 +11,9 @@ importers:
       lodash:
         specifier: 4.17.21
         version: 4.17.21
+      redux:
+        specifier: 5.0.1
+        version: 5.0.1
       tsdef:
         specifier: 0.0.14
         version: 0.0.14
@@ -20,11 +23,16 @@ packages:
   lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
 
+  redux@5.0.1:
+    resolution: {integrity: sha512-M9/ELqF6fy8FwmkpnF0S3YKOqMyoWJ4+CS5Efg2ct3oY9daQvd/Pc71FpGZsVsbl3Cpb+IIcjBDUnnyBdQbq4w==}
+
   tsdef@0.0.14:
     resolution: {integrity: sha512-UjMD4XKRWWFlFBfwKVQmGFT5YzW/ZaF8x6KpCDf92u9wgKeha/go3FU0e5WqDjXsCOdfiavCkfwfVHNDxRDGMA==}
 
 snapshots:
 
   lodash@4.17.21: {}
+
+  redux@5.0.1: {}
 
   tsdef@0.0.14: {}
